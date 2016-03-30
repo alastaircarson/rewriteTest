@@ -1,0 +1,9 @@
+C:\Code\cs\rewriteTest\rewriteTest\bin\Debug\rewriteTest.dll
+C:\Code\cs\rewriteTest\rewriteTest\bin\Debug\rewriteTest.pdb
+C:\Code\cs\rewriteTest\rewriteTest\obj\Debug\rewriteTest.dll
+C:\Code\cs\rewriteTest\rewriteTest\obj\Debug\rewriteTest.pdb
+C:\Code\cs\rewriteTest\rewriteTest\bin\Debug\Mono.Security.dll
+C:\Code\cs\rewriteTest\rewriteTest\bin\Debug\Npgsql.dll
+C:\Code\cs\rewriteTest\rewriteTest\bin\Debug\Npgsql.pdb
+C:\Code\cs\rewriteTest\rewriteTest\bin\Debug\Npgsql.xml
+C:\Code\cs\rewriteTest\rewriteTest\obj\Debug\rewriteTest.csprojResolveAssemblyReference.cache
